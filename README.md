@@ -27,8 +27,8 @@ A simple Node.js application that reads WhatsApp messages, stores them locally, 
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/NekrashevychOleksandr/whatsAppChatReader
+cd whatsAppChatReader
 ```
 
 2. Install dependencies:
