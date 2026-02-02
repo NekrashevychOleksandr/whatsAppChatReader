@@ -13,5 +13,12 @@ Thumbs.db
 # Local WhatsApp authentication folder
 .local-auth/  # this is where whatsapp-web.js stores session info
 
+# WhatsApp session storage
+.wwebjs_auth/
+
+# Stored WhatsApp messages
+messages.json
+
+
 # Environment files (if you create one later)
 .env
