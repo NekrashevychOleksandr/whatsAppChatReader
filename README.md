@@ -32,18 +32,19 @@ cd whatsAppChatReader
 ```
 
 2. Install dependencies:
-
+```bash
 npm install
-
+```
 
 3. Configure your webhook and keywords in config.js:
-
+```bash
 module.exports = {
   WEBHOOK_URL: 'https://your-webhook-url.com',
   KEYWORDS: ['hiring', 'developer', 'remote', 'python']
 };
-
+```
 
 4. Start the application:
-
+```bash
 node index.js
+```
