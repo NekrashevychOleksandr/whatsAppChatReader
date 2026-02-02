@@ -19,6 +19,9 @@ Thumbs.db
 # Stored WhatsApp messages
 messages.json
 
+# WhatsApp cache files
+.wwebjs_cache/
+
 
 # Environment files (if you create one later)
 .env
